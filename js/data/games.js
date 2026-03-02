@@ -1145,8 +1145,8 @@ window.games = [
     // 게임 상세 미디어 갤러리
     mediaGall01: 'https://gmedia.playstation.com/is/image/SIEPDC/hogwarts-legacy-screen-01-ps5-en-02oct20?$2400px$',
     mediaGall02: 'https://gmedia.playstation.com/is/image/SIEPDC/hogwarts-legacy-screen-02-ps5-en-02oct20?$2400px$',
-    mediaGall03: 'https://blog.kakaocdn.net/dna/bFwEEg/btr1bfWezDt/AAAAAAAAAAAAAAAAAAAAAMXQtAlLJz0e5jkV9t72DJRTIOHVY8DJ6c2ShXFC_V05/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1772290799&allow_ip=&allow_referer=&signature=Gn86T8BQs4mdMp%2FNP7mpUYjL%2BM4%3D',
-    mediaGall04: 'https://blog.kakaocdn.net/dna/l96Hm/btr0JBNRip0/AAAAAAAAAAAAAAAAAAAAALte6CB9wTX3BaFr1JkTgR3r_s-KaAlmHAQbzcAbRE_x/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1772290799&allow_ip=&allow_referer=&signature=jIQrMc3hT6GAJb8u5V6i1nKa080%3D',
+    mediaGall03: 'https://cdn-hogwartslegacy.warnerbrosgames.com/media/screen-06.jpg',
+    mediaGall04: 'https://cdn-hogwartslegacy.warnerbrosgames.com/media/screen-08.jpg',
     mediaGall05: 'https://preview.redd.it/beautiful-screenshots-from-hogwarts-legacy-v0-m2fqd7usd6ja1.png?width=2560&format=png&auto=webp&s=bfe89cd09c28e559c73a63766ff2127f14735fd3',
     mediaGall06: 'https://i.redd.it/hogwarts-legacy-missing-photo-mode-v0-saobpnvwmjgc1.jpg?width=3840&format=pjpg&auto=webp&s=adca74dcd2424dcae235fd530a7f8a077e2a9123',
     // 미디어 갤러리 사진 제목
@@ -1999,6 +1999,7 @@ window.games = [
   }
 
 ];
+
 
 
 
