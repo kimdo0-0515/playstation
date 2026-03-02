@@ -212,7 +212,7 @@ window.games = [
     mainVideo: 'assets/video/games/ghostYotei/ghostYotei_trailer.mp4',
     // 게임 상세 미디어 갤러리
     mediaGall01: 'https://www.gameuidatabase.com/uploads/Ghost-of-Ytei10022025-011905-84722.jpg',
-    mediaGall02: 'https://www.gameuidatabase.com/uploads/Ghost-of-Ytei10022025-014536-90760.jpg',
+    mediaGall02: 'https://www.gameuidatabase.com/uploads/Ghost-of-Ytei10022025-012243-42094.jpg',
     mediaGall03: 'https://www.gameuidatabase.com/uploads/Ghost-of-Ytei10022025-011954-66868.jpg',
     mediaGall04: 'https://www.gameuidatabase.com/uploads/Ghost-of-Ytei10022025-012123-67943.jpg',
     mediaGall05: 'https://www.gameuidatabase.com/uploads/Ghost-of-Ytei10022025-012808-71311.jpg',
@@ -1999,4 +1999,5 @@ window.games = [
   }
 
 ];
+
 
