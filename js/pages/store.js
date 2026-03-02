@@ -256,7 +256,7 @@ function updateWishlistUI() {
     const discountedPrice = Math.round(item.originalPrice * (1 - item.discount / 100));
     return `
       <li class="wishlist__item">
-        <div class="item__left"><img src="../../assets/img/games/${item.id}/cover.jpg" alt="${item.name}"></div>
+        <div class="item__left"><img src="assets/img/games/${item.id}/cover.jpg" alt="${item.name}"></div>
         <div class="item__mid">
           <p class="title--xs">${item.name}</p>
           <div class="item__star"><p class="title--xs"><i class="bi bi-star-fill"></i> ${item.star}</p></div>
@@ -302,7 +302,7 @@ function renderCards(page, dataToRender) {
       <div class="card-item" data-game="${game.id}">
         <div class="card">
           <div class="card__discount"><p class="title--l">-${game.discount}%</p></div>
-          <div class="card__img"><img src="../../assets/img/games/${game.id}/cover.jpg" alt="${game.name}"></div>
+          <div class="card__img"><img src="assets/img/games/${game.id}/cover.jpg" alt="${game.name}"></div>
           <div class="card__text">
             <div class="card__text__top">
               <div class="text__name"><p class="title--s">${game.name}</p></div>
@@ -414,4 +414,5 @@ function enterLaptop(){
 
 function enterPc(){
   itemsPerPage = 8;
+
 }
