@@ -850,7 +850,7 @@ window.games = [
     cr04Name: '로즈 굿윈',
     cr04Line: '엄마… 아빠… 제발 헤어지지 마.',
     cr04Desc: '코디와 메이의 딸. 부모의 다툼에 상처받고 눈물을 흘리며, 그 감정이 두 사람을 인형으로 바꾸는 계기가 됩니다.',
-    cr05Img: 'https://blog.kakaocdn.net/dna/ctsl7y/btq2L3aXXMS/AAAAAAAAAAAAAAAAAAAAAHt4e4Rq0zNbkigXPTPSLAn70Ktl6ck0tMFAzgnJ-iSI/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1772290799&allow_ip=&allow_referer=&signature=9CngMr4100IZNwFQIf9l5qczHhw%3D',
+    cr05Img: 'https://i.namu.wiki/i/KJuzpmwePGXEETuURXJjruXTvK9fHTRBpwE0b8Fu_pX8HeR5FxK2Jya1yL9PrEcT0qm3yK2h_pY3UW2khkapjgH4-60a39CwF6Btz781RRz9dMEynZ_IQ1ErpJcxJJTAgKqIo83PJuOdKb9egVc0zQ.webp',
     cr05Name: '공구 상자',
     cr05Line: '고장 난 건 고쳐야지… 아니면 버려야 하고.',
     cr05Desc: '부부의 갈등이 형상화된 첫 번째 시련. 협력하지 않으면 절대 넘어설 수 없는 상징적인 보스입니다.',
@@ -1997,4 +1997,5 @@ window.games = [
     // 커서 이미지 경로
     cursorSrc: 'assets/icon/sword.svg',
   }
+
 ];
