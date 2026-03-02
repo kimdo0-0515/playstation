@@ -1782,7 +1782,7 @@ window.games = [
     cr04Name: 'V',
     cr04Line: '나이트 시티에선 전설이 되거나, 이름 없이 사라지거나.',
     cr04Desc: '더욱 유명해져서 나이트 시티의 전설이 되기 위해 노력하는 용병입니다. 콘페키 플라자 강도 사건을 맡으면서 큰 유명세를 얻지만 계획대로 되는 일은 없었습니다. V의 머리에는 실험용 프로토타입 칩이 박히게 되었고, 서서히 조니 실버핸드의 인격에 침식되어 됩니다. V에 주어진 새로운 임무는 어떤 대가를 치르더라도 살아남는 것입니다.',
-    cr05Img: 'https://blog.kakaocdn.net/dna/k9q6z/btqI564tyxD/AAAAAAAAAAAAAAAAAAAAAEelnKlSzVJGJL286MVAKoMNwJChxSkavZXuqcmTY5GQ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1772290799&allow_ip=&allow_referer=&signature=eKLokCedwMaSlok9N18JZVW2BEo%3D',
+    cr05Img: 'https://i.namu.wiki/i/4Xbbl0vkgc5ssx-Zx9OomVw7atGQCh_6UK74D3DFyHEVbcz-GG_pWxbopVMnAjuBzDG8u6DHxIQVPAMKAf-bDWZcIDRvC11fTbb6EaugjaYzfWGqrCgkruA6sA_B4zfi_WTkmW7mEzo11UiyPmrNwQ.webp',
     cr05Name: '조니 실버핸드',
     cr05Line: '기업은 영혼을 판다. 난 그걸 태워버리러 왔지.',
     cr05Desc: '나이트 시티의 가장 상징적인 인물 중 한 명입니다. 크롬 록 밴드 사무라이의 리더이자 기업을 매우 싫어하는 조니는 누구보다 "로커보이"라는 별명이 가장 잘 어울리는 인물입니다. 반항적이고 고집스러운 이 성질 급한 개자식은 2023년에 놀라운 성공을 거뒀지만, 2077년에는 V의 머릿속에 갇혀 있습니다.',
@@ -1999,5 +1999,6 @@ window.games = [
   }
 
 ];
+
 
 
