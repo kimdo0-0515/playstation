@@ -9,7 +9,7 @@
     <th>리뉴얼 후</th>
   </tr>
   <tr>
-    <th valign="top"><img src="" alt="리뉴얼 전"></th>
+    <th valign="top"><img src="https://github.com/user-attachments/assets/6504d3ab-376b-4812-afc9-ae169c0b28ad" alt="리뉴얼 전"></th>
     <th valign="top"><img src="" alt="리뉴얼 후"></th>
   </tr>
 </table>
