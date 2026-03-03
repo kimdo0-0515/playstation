@@ -9,7 +9,7 @@ window.games = [
     genre: ['action', 'adventure', 'puzzle'],
     star: 4.9,
     logoExtension: 'webp',  // svg 또는 webp
-    mainVideo: 'assets/video/games/astroBot/astroBot_trailer.mp4',
+    mainVideo: 'https://pub-df80c62e9e354e6c9ef3b84167c35919.r2.dev/assets/video/games/astroBot/astroBot_trailer.mp4',
     // 게임 상세 미디어 갤러리
     mediaGall01: 'https://www.gameuidatabase.com/uploads/ASTRO-BOT10312024-062645-11651.jpg',
     mediaGall02: 'https://www.gameuidatabase.com/uploads/ASTRO-BOT10312024-062602-28967.jpg',
@@ -209,7 +209,7 @@ window.games = [
     genre: ['soul', 'story', 'action', 'adventure', 'openworld', 'rpg'],
     star: 4.8,
     logoExtension: 'webp',
-    mainVideo: 'assets/video/games/ghostYotei/ghostYotei_trailer.mp4',
+    mainVideo: 'https://pub-df80c62e9e354e6c9ef3b84167c35919.r2.dev/assets/video/games/ghostYotei/ghostYotei_trailer.mp4',
     // 게임 상세 미디어 갤러리
     mediaGall01: 'https://www.gameuidatabase.com/uploads/Ghost-of-Ytei10022025-011905-84722.jpg',
     mediaGall02: 'https://www.gameuidatabase.com/uploads/Ghost-of-Ytei10022025-012243-42094.jpg',
@@ -1999,6 +1999,7 @@ window.games = [
   }
 
 ];
+
 
 
 
