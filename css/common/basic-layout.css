@@ -575,13 +575,13 @@ footer{
     position: relative;
   }
   .gnb-shape--circle{
-    background: url(/assets/icon/mobile_gnb_circle.svg) no-repeat left center / 16px;
+    background: url(../../assets/icon/mobile_gnb_circle.svg) no-repeat left center / 16px;
   }
   .gnb-shape--rect{
-    background: url(/assets/icon/mobile_gnb_rect.svg) no-repeat left center / 16px;
+    background: url(../../assets/icon/mobile_gnb_rect.svg) no-repeat left center / 16px;
   }
   .gnb-shape--tri{
-    background: url(/assets/icon/mobile_gnb_tri.svg) no-repeat left center / 16px;
+    background: url(../../assets/icon/mobile_gnb_tri.svg) no-repeat left center / 16px;
   }
   .mobile-lnb{
     margin-left: 32px;
@@ -862,4 +862,5 @@ footer{
   .footer__bottom img{
     width: 86px;
   }
+
 }
