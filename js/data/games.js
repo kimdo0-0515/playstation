@@ -1040,7 +1040,7 @@ window.games = [
     cr02Name: '검은 옷의 방화녀',
     cr02Line: '영혼의 힘을 받아들이세요… 그리고 더 강해지세요.',
     cr02Desc: '주인공을 쐐기 신전으로 소환한, 수수께끼의 여성. 온몸에 검은 천을 두르고 기다란 등화봉을 들고 있으며, 얼굴 윗부분은 밀랍 같은 것으로 뒤덮여 있다.',
-    cr03Img: 'https://i.namu.wiki/i/zL7r-RWudg17jYppLg4hJT7XFDLKSuIHnZn8FqOFnus8ZhpjFOOPbyfwtSGJ-_Nj5VHaXPOdWr8JJpHxOiK63E1sHR65u2kHXs5GXt2NaCpd9gtKtNWHqdARikQXtFMrwQzjGA_m9tDi84xHgfZwBA.webp',
+    cr03Img: 'assets/img/games/demonsSouls/astraea.webp',
     cr03Name: '아스트라에아',
     cr03Line: '돌아가십시오, 데몬을 죽이는 자여. 이곳은 신에게 버림받은 자들이 찾아오는 장소입니다. 당신이 빼앗아갈 만한 것은 이 땅엔 아무것도 없습니다. 부탁입니다. 돌아가십시오.',
     cr03Desc: '타락한 계곡에서 고통받는 자들을 보살피는 성녀. 그러나 그녀 역시 데몬의 힘에 물들어 있으며, 비극적인 선택을 상징하는 보스다.',
@@ -1999,6 +1999,7 @@ window.games = [
   }
 
 ];
+
 
 
 
