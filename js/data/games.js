@@ -1661,7 +1661,7 @@ window.games = [
     mustPlay02Src: {'type': 'img', 'url': 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/18b0109d89afa9c1b6afce2cabb9429da7ab9968/ss_18b0109d89afa9c1b6afce2cabb9429da7ab9968.1920x1080.jpg?t=1770912014'},
     mustPlay02Title: '전면전',
     mustPlay02Desc: 'Battlefield의 전설적인 보병대와 탑승장비 전투의 조합, 병과 기반 분대 플레이, 최첨단 시청각 몰입감을 경험하세요.',
-    mustPlay03Src: {'type': 'img', 'url': 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/ed9601f6aa237b267c2e320b44eaa8ae9f491814/ss_ed9601f6aa237b267c2e320b44eaa8ae9f491814.1920x1080.jpg?t=1770912014'},
+    mustPlay03Src: {'type': 'img', 'url': 'assets/img/games/bf6/mustplaynow-3.webp'},
     mustPlay03Title: '세계적인 규모의 캠페인',
     mustPlay03Desc: '싱글 플레이어 캠페인이 돌아왔습니다. 플레이어는 엘리트 해병 레이더 분대인 대거 13의 일원이 되어, NATO 붕괴를 목전에 둔 세계에서 권력 구도를 뒤바꾸려는 민간 군사 기업 팍스 아르마타를 막아야 합니다. 손에 땀을 쥐게 하는 롤러코스터 같은 이 캠페인에서 전차로 사하라 사막을 가로지르고, 지브롤터 해변을 공격하고, 뉴욕을 침략으로부터 방어할 준비를 하세요.',
     // 커서 이미지 경로
